@@ -1,5 +1,8 @@
 ## Report goes here
+**Aim**
+To make a buggy drive in a straight line and then edit the code for it to move at three different speeds, then calculate it's speed in meters per second.
 
+**Method**
 With reference to the online material posted on canvas, the corresponding pins on the buggy were wired up. code was then uploaded to the ATMega328P MCU mounted on the buggy. When the buggy was turned on, the wheels did begin turn, allowing the buggy to move. However initially the buggy would veer quite heavily to the left. a few attempts were made to make sure the buggy would drive in a straight line. This was done by increasing the speed of the left wheel. Once the buggy was funcioning normally, different speeds for both wheels were implemented into the code. For each of the new wheel speeds, the time it took for the buggy to travel one meter was recorded. Then simple v=d/t was used to calculate the velocity of the buggy.
 
 default code veers left
