@@ -10,3 +10,9 @@ different speed 2: 175 150 no worky / wonky > 180 > 185 (L) works good / perfect
 Speed 1:  (240 200): 3.49s to go 1m
 Speed 2: (125 100): 6.43s to go 1m
 Speed 3 (185 150): 3.91s to go 1m 
+
+|Speed No.|Value|Time|Meters Per Second|
+|--------|-------|-------|-------|
+|1| L:240 R:200|3.49s|0.286 m/s|
+|2| L:125 R:100|6.43s|0.155 m/s|
+|3| L:185 R:150|3.91s|0.255 m/s|
